@@ -8,6 +8,7 @@ cd ~
 ln -s dotfiles/.* .
 
 git submodule init
+
 git submodule update
 
 
